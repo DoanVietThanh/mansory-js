@@ -1,0 +1,22 @@
+{
+  "name": "mansory",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DoanVietThanh/Mansory.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DoanVietThanh/Mansory/issues"
+  },
+  "homepage": "https://github.com/DoanVietThanh/Mansory#readme",
+  "dependencies": {
+    "surge": "^0.23.1"
+  }
+}
